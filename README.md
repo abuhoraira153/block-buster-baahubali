@@ -3,7 +3,8 @@
 This project was css with [my porject link](https://blockbuster-baahubali-2.netlify.app/).
 <ul>
   <li>This project is about a movie <li>
-    
+  <li>This movie earn the height money for India <li>
+  <li>It's story is awesome <li>
  <ul>
 ## Available Scripts
 
