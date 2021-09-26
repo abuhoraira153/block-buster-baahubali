@@ -1,7 +1,9 @@
 # blockbuster-baahubali-2
 
-This project was bootstrapped with [Create React App](https://blockbuster-baahubali-2.netlify.app/).
-
+This project was css with [my porject link](https://blockbuster-baahubali-2.netlify.app/).
+<li>
+  <li>This project is about a movie <li>
+ <li>
 ## Available Scripts
 
 In the project directory, you can run:
