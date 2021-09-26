@@ -3,7 +3,7 @@
 This project made with css framework [my porject link](https://blockbuster-baahubali-2.netlify.app/).
  <ul>
   <li>This website is about a movie.</li>
-  <li>If you see the move, You can konw about the history of India.</li>
+  <li>If you see the movie, You can konw about the history of India.</li>
   <li>It's story is awesome</>
   </ul>
   
