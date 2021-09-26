@@ -1,7 +1,12 @@
-# Getting Started with Create React App
+# blockbuster-baahubali-2
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This project made with css framework [my porject link](https://blockbuster-baahubali-2.netlify.app/).
+ <ul>
+  <li>This website is about a movie.</li>
+  <li>If you see the movie, You can konw about the history of India.</li>
+  <li>It's story is awesome</>
+  </ul>
+  
 ## Available Scripts
 
 In the project directory, you can run:
