@@ -1,10 +1,10 @@
 # blockbuster-baahubali-2
 
 This project was css with [my porject link](https://blockbuster-baahubali-2.netlify.app/).
-  <li>This project is about a movie
-      This movie earn the height money for India
-      It's story is awesome
-  <li>
+  This project is about a movie
+  This movie earn the height money for India
+  It's story is awesome
+  
 ## Available Scripts
 
 In the project directory, you can run:
