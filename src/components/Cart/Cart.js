@@ -8,7 +8,7 @@ const Cart = (props) => {
     for (const actor of cart){
         console.log(actor.name)
         totalSalary = totalSalary + actor.salary;
-        name =  name + actor.name + "\n";
+        name =  name + actor.name;
     }
     return (
         <div className = "cart">
