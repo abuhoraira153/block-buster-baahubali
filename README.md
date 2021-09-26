@@ -1,6 +1,6 @@
-# Getting Started with Create React Ap
+# blockbuster-baahubali-2
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://blockbuster-baahubali-2.netlify.app/).
 
 ## Available Scripts
 
