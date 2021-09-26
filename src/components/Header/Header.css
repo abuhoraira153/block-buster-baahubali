@@ -1,0 +1,13 @@
+.header{
+    background-color: #999B84;
+    text-align: center;
+    width: 700px;
+    margin: 0 auto;
+    padding: 5px;
+    color: #663F3F;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.movie-name{
+    color: brown;
+}
