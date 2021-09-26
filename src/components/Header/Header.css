@@ -1,13 +1,10 @@
 .header{
     background-color: #999B84;
     text-align: center;
-    width: 700px;
+    width: 900px;
     margin: 0 auto;
     padding: 5px;
-    color: #663F3F;
-    margin-top: 20px;
+    color: #2A0944;
+    margin-top: 10px;
     border-radius: 5px;
-}
-.movie-name{
-    color: brown;
 }
